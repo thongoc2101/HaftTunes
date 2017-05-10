@@ -41,6 +41,8 @@ class SearchViewController: UIViewController {
     _ = self.downloadsSession
   }
   
+    
+    
   override func didReceiveMemoryWarning() {
     super.didReceiveMemoryWarning()
   }
